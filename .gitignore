@@ -3,3 +3,4 @@ data/
 *.pt
 .ipynb_checkpoints/
 __pycache__/
+AGENTS.md
