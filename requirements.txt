@@ -1,0 +1,11 @@
+torch
+torchvision
+albumentations
+imagehash
+datasets
+huggingface_hub
+opencv-python-headless
+matplotlib
+seaborn
+scikit-learn
+tqdm
